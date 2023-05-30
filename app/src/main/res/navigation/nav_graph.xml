@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/register">
+    <activity
+        android:id="@+id/register"
+        android:name="com.example.englishv2.Register"
+        android:label="activity_register"
+        tools:layout="@layout/activity_register" />
+    <activity
+        android:id="@+id/sign_in"
+        android:name="com.example.englishv2.Sign_in"
+        android:label="activity_sign_in"
+        tools:layout="@layout/activity_sign_in" />
+    <activity
+        android:id="@+id/home2"
+        android:name="com.example.englishv2.Home"
+        android:label="activity_home"
+        tools:layout="@layout/activity_home" />
+</navigation>

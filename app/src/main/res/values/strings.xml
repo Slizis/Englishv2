@@ -1,0 +1,35 @@
+<resources>
+    resources>
+    <string name="questions">1/10</string>
+    <string name="question">question will be here....</string>
+    <string name="app_name">Monkey English</string>
+    <string name="profile">Profile</string>
+    <string name="titles">Monkey English</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Есть уже аккаунт? Войти</string>
+    <string name="exit">Выход</string>
+    <string name='phone'>Phone</string>
+    <string name="password">Password</string>
+    <string name="repeat_pass">Repeat Password</string>
+    <string name="zabili">Забыли пароль?</string>
+    <string name="save">Запомнить меня</string>
+    <string name="enter">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="username">Username</string>
+    <string name="start">Начать</string>
+    <string name="pair">Подбери соответствующие</string>
+    <string name="title_activity_tstask">TSTaskActivity</string>
+    <string name="animals">Животные</string>
+    <string name="emotions">Эмоции</string>
+    <string name="food">Еда</string>
+    <string name="drink">Напитки</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_sign_in" />
+</resources>
